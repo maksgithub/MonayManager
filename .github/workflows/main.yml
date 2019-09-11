@@ -14,4 +14,4 @@ jobs:
       with:
         dotnet-version: 2.2.108
     - name: Build with dotnet
-      run: dotnet build MonayManager/ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj --configuration Release
+      run: dotnet build ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj --configuration Release

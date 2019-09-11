@@ -16,7 +16,7 @@ jobs:
       run: dotnet build ConsoleApp2/ConsoleApp2/ConsoleApp2.csproj --configuration Release
       
     - name: Upload artifacts
-    - uses: actions/upload-artifact@master
+      uses: actions/upload-artifact@master
       with:
         name: ConsoleApp2.dll
         path: ConsoleApp2\ConsoleApp2\bin\Release\netcoreapp2.1

@@ -440,3 +440,7 @@ ModelManifest.xml
 /ConsoleApp1/.vs/ConsoleApp1/v15/Server/sqlite3/storage.ide-shm
 /ConsoleApp1/.vs/ConsoleApp1/v15/Server/sqlite3/storage.ide-wal
 /.gitattributes
+/ConsoleApp2/.vs/ConsoleApp2/v15/Server/sqlite3/db.lock
+/ConsoleApp2/.vs/ConsoleApp2/v15/Server/sqlite3/storage.ide
+/ConsoleApp2/.vs/ConsoleApp2/v15/Server/sqlite3/storage.ide-shm
+/ConsoleApp2/.vs/ConsoleApp2/v15/Server/sqlite3/storage.ide-wal
